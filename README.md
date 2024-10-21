@@ -35,7 +35,7 @@ Telegram bots are written in all programming languages.
 - [ ] PHP
 - [ ] PowerShell
 - [ ] Perl
-- [ ] Python
+- [x] Python
 - [ ] Ruby
 - [ ] Rust
 - [ ] Scala
